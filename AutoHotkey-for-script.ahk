@@ -328,7 +328,6 @@ Capslock::Ctrl
 ^9::Send, #{Down}
 ^,::Send, #{Left}
 ^.::Send, #{Right}
-^::Send, ^w
 
 ; Why??
 ;#Space::Send, !+
